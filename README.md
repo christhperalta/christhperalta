@@ -2,8 +2,7 @@
 
 ![](./Christh.svg)
 
-```
-javascript
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript ,HTML, CSS,],
