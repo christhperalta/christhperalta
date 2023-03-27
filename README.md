@@ -2,6 +2,9 @@
 
 ![](./Christh.svg)
 
+<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
