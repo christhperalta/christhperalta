@@ -21,3 +21,13 @@ const aboutMe = {
 ```
 
 <h2>💻 Some stats </h2>
+
+
+
+
+</br></br>
+<div align="center">
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christhperalta&show_icons=true&locale=en&layout=compact&theme=dracula" alt="christhperalta" /></p>
+   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christhperalta&show_icons=true&&theme=dracula&locale=en" alt="christhperalta" /></p>
+ </div>
