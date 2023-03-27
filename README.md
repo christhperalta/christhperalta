@@ -16,3 +16,5 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+<h2>💻 Some stats </h2>
