@@ -17,7 +17,7 @@ const aboutMe = {
 };
 ```
 
-<h2>![](./github.png) Some stats </h2>
+<h2> <img align="center" src="./github.png" alt="christhperalta" / Some stats </h2>
 
 </br></br>
 
